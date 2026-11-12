@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://zakuzaku-games.abrdns.com/sitemap.xml
